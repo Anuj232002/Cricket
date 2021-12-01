@@ -161,7 +161,7 @@ printf("\nAverage score: %f",player[o].avg_score);
 printf("\nMax-wickets taken: %d",player[o].wicket);
 break;
 case 8:
-printf("Mauj kardi bete ab ja ke so ja");
+
 break;
 default:
 printf("Plese enter correct choice");
